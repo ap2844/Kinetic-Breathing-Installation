@@ -53,5 +53,3 @@ Servo rotation is converted into linear or pulsed motion through fishing lines c
 - Tuned parameters for stable and smooth motion
 
 ---
-
-## Repository Structure
